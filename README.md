@@ -3,6 +3,8 @@
 Version : 1.0.2
 Date : 2011/02/19
 
+![kinect-graffiti](https://user-images.githubusercontent.com/25073305/162198695-cbc96762-548e-4fe5-90ea-6c0785bcf558.jpg)
+
 Description :
 
 Kinect Graffiti is a digital graffiti tool using "Microsoft Kinect" camera.
