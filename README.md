@@ -39,7 +39,7 @@ How to use it :
 * Use the mouse on the main stage to change the view and zoom.
 
 
-Hotkeys
+Hotkeys :
 
 * C        : Next brush.
 * SPACEBAR : Play/Pause. 
