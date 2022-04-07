@@ -7,7 +7,6 @@ Version : 1.0.2
 Date : 2011/10/19
 
 
-
 Description :
 
 Kinect Graffiti is a digital graffiti tool using "Microsoft Kinect" camera.
@@ -15,7 +14,6 @@ Kinect Graffiti is a digital graffiti tool using "Microsoft Kinect" camera.
 Idea behind this project is to use the kinect to track the motion behind graffiti. Visualizing the body and drawing trough different angles in realtime, Understanding surrounding space, pausing the time, etc...
 
 Kinect Graffiti is a tool built in processing & openGL, SimpleOpenNI, openNI and primeSense libraries.
-
 
 Example of use : http://vimeo.com/24665893
 
